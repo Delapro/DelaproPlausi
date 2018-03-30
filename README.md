@@ -10,6 +10,8 @@ In einem weiteren Absatz hieß es dann:
 
 Tiefergehende Informationen dazu findet man unter [Datenzugriff GDPU](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/Datenzugriff_GDPdU/2014-11-14-GoBD.html) bzw. in der Fachliteratur zum Thema Betriebs- und Außenprüfung.
 
+Es werden aber nicht nur Aspekte für Betriebsprüfungen beleuchtet sondern auch allgemein die Datenkonsistenz, z. B. nach dem Import von Daten aus anderen Programmen.
+
 # Prüfungen
 
 ## fortlaufende Auftragsnummern
